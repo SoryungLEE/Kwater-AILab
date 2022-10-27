@@ -20,8 +20,7 @@
      - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/water_forecast.git/HEAD)
 
 8. (동파예측) 수도계량기함 내부온도 예측 알고리즘 개발
-
-Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://himount-freeze-burst-freeze-meter-streamlit-qx53qw.streamlitapp.com/)
+    - Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://himount-freeze-burst-freeze-meter-streamlit-qx53qw.streamlitapp.com/)
 
 
 
